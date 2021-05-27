@@ -2,3 +2,15 @@
 #
 #
 # Projekt für PiHole 5.X: https://github.com/Mr-Robot-ops/pihole-regex
+#
+# Install
+# curl -sSl https://raw.githubusercontent.com/mr-robot-ops/pihole-regex/master/install.py | sudo python3
+#
+# Removal
+# curl -sSl https://raw.githubusercontent.com/mr-robot-ops/pihole-regex/master/uninstall.py | sudo python3
+#
+#
+#
+#  ------------------------------
+#
+#
